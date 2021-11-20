@@ -81,4 +81,4 @@
   </a>
 </p>
 </p>
- <img  alt="GIF" src="https://github.com/dmgaye96/dmgaye96/blob/main/code.gif?raw=true" width="100%" height="320" />
+ <img  alt="GIF" src="https://github.com/dmgaye96/dmgaye96/blob/master/code.gif?raw=true" width="100%" height="320" />
