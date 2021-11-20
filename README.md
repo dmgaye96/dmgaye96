@@ -76,8 +76,6 @@
    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmgaye96&count_private=true&theme=tokyonight" />
   <a href='https://github.com/dmgaye96/github-stats-transparent'>
     
-  ![Most Used Languages width="49%"](https://raw.githubusercontent.com/dmgaye96/github-stats-transparent/output/generated/languages.svg)
-  
   </a>
 </p>
 </p>
